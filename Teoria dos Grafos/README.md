@@ -1,0 +1,1 @@
+Esse foi um código que criei para um trabalho de teoria dos grafos, na qual ele lê um arquivo .txt com uma matriz de adjacência e essencialmente retorna quantos grupos existem, e adicionei como função adicional mostrar quais são os grupos.
